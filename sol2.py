@@ -16,8 +16,5 @@ def main():
     help(fr.concat_list);
 
 
-
-
-
 if __name__ == "__main__":
     main()
