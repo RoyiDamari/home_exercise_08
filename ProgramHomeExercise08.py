@@ -17,7 +17,6 @@ def print_zugi(numbers_list: list[int] = []) -> list[str]:
 
 
 print(print_zugi([5, 3, 2, 10, 15, 14, 14]));
-print_zugi([]);
 
 
 # Exercise 5
